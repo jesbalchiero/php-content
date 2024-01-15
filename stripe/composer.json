@@ -1,0 +1,17 @@
+{
+    "name": "jean/stripe",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jesbalchiero",
+            "email": "62852809+jesbalchiero@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^13.9"
+    }
+}
